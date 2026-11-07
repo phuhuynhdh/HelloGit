@@ -1,3 +1,4 @@
 Harry GitHub connector test
-version=1
+version=2
 purpose=verify create, update, read and delete operations
+status=updated-in-place
